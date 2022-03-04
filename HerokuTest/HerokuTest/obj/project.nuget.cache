@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/noici1NRt35SDzYo9oK85Qxo6xZ+AjU1m9em9pmdzpr0nSe3tMtwP1dDQqwcQTCCqYZeJE9R+YwJeuHdjVkSg==",
+  "dgSpecHash": "1UVzHpquNuzy1gnGemozbXwZKdNsF5+Qag+o56PdDT8It84JXeZzB2x4urtZcGS32b6m4D8RNfUr3U9UNQBPeA==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuTest\\HerokuTest.csproj",
+  "projectFilePath": "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuTest\\HerokuTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guzae\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\guzae\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.2\\microsoft.entityframeworkcore.6.0.2.nupkg.sha512",

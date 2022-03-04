@@ -942,11 +942,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuAPI\\HerokuAPI.csproj",
+      "projectUniqueName": "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuAPI\\HerokuAPI.csproj",
       "projectName": "HerokuAPI",
-      "projectPath": "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuAPI\\HerokuAPI.csproj",
+      "projectPath": "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuAPI\\HerokuAPI.csproj",
       "packagesPath": "C:\\Users\\guzae\\.nuget\\packages\\",
-      "outputPath": "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuAPI\\obj\\",
+      "outputPath": "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guzae\\AppData\\Roaming\\NuGet\\NuGet.Config",

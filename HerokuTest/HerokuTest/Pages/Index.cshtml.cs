@@ -18,7 +18,7 @@ public class IndexModel : PageModel
         var user = new User(rnd.Next(0, 10000), rnd.Next(0, 10000).ToString());
         
         var json = JsonSerializer.Serialize(user);
-        var response = await client.PostAsJsonAsync("https://localhost:7159/User/SetUser", json);
+        var response = await client.PostAsJsonAsync("http://localhost:5159/User/SetUser", json);
         var result = await response.Content.ReadFromJsonAsync<bool>();
         return Content(result.ToString());
     }

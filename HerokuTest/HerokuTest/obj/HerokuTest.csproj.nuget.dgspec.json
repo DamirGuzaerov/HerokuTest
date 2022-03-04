@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuTest\\HerokuTest.csproj": {}
+    "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuTest\\HerokuTest.csproj": {}
   },
   "projects": {
-    "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuAPI\\HerokuAPI.csproj": {
+    "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuAPI\\HerokuAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuAPI\\HerokuAPI.csproj",
+        "projectUniqueName": "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuAPI\\HerokuAPI.csproj",
         "projectName": "HerokuAPI",
-        "projectPath": "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuAPI\\HerokuAPI.csproj",
+        "projectPath": "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuAPI\\HerokuAPI.csproj",
         "packagesPath": "C:\\Users\\guzae\\.nuget\\packages\\",
-        "outputPath": "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuAPI\\obj\\",
+        "outputPath": "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guzae\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuTest\\HerokuTest.csproj": {
+    "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuTest\\HerokuTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuTest\\HerokuTest.csproj",
+        "projectUniqueName": "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuTest\\HerokuTest.csproj",
         "projectName": "HerokuTest",
-        "projectPath": "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuTest\\HerokuTest.csproj",
+        "projectPath": "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuTest\\HerokuTest.csproj",
         "packagesPath": "C:\\Users\\guzae\\.nuget\\packages\\",
-        "outputPath": "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuTest\\obj\\",
+        "outputPath": "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guzae\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -107,8 +107,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuAPI\\HerokuAPI.csproj": {
-                "projectPath": "C:\\Repository\\guzaerov_11009\\2022\\SPRING\\HerokuTest\\HerokuAPI\\HerokuAPI.csproj"
+              "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuAPI\\HerokuAPI.csproj": {
+                "projectPath": "D:\\Reposeroiees\\HerokuTest\\HerokuTest\\HerokuAPI\\HerokuAPI.csproj"
               }
             }
           }
