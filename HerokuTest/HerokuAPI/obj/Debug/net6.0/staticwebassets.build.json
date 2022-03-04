@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kF3lVKdS2TGJ8we3TuRLxidlZzTSyeb9Hv0zXoZs/1s=",
+  "Source": "HerokuAPI",
+  "BasePath": "_content/HerokuAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
