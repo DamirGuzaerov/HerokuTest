@@ -1,1 +1,1 @@
-web: cd $HOME/heroku_output && /HerokuTest
+web: cd $HOME/heroku_output && ./HerokuTest
